@@ -29,9 +29,9 @@ For example, the filters used in the above image is both date of 1/12/2010 and t
 
 ## Summary
 
-The drawback of this page is without scanning the entire table, it is difficult to know the possible ways to filter the data. For example, the "US" country is easy to see within the first few lines of data. However, what data exists for other countries and how does the user know which countries (and their country code) to filter on? Additionally, the shape of the sighting is interesting information, but again, without scanning the table, it is difficult to know the available ways to filter on shape. The shape of "cigar" may not be considered when brainstorming ways to filter the data.
+The drawback of this page is that without scanning the entire table, it is difficult to know the possible ways to filter the data. For example, the "US" country is easy to see within the first few lines of data. However, what data exists for other countries and how does the user know which countries (and their country code) to filter on? Additionally, the shape of the sighting is interesting information, but again, without scanning the table, it is difficult to know the available ways to filter on shape. The shape of "cigar" may not be considered when brainstorming ways to filter the data.
 
-# Recommendations
+### Recommendations
 
 - To resolve this drawback, I would recommend multi-select combo box filters instead of blank text boxes. This would enable the user to search through a list of available options to filter the data. The user could select both "cigar" and "teardrop" to display filtered data for both shapes.
 
